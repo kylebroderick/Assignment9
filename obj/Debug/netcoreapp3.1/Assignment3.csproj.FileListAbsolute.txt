@@ -1,0 +1,121 @@
+/Users/kylebroderick/Projects/Assignment3/Assignment3/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/kylebroderick/Projects/Assignment3/Assignment3/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/kylebroderick/Projects/Assignment3/Assignment3/bin/Debug/netcoreapp3.1/Assignment3.deps.json
+/Users/kylebroderick/Projects/Assignment3/Assignment3/bin/Debug/netcoreapp3.1/Assignment3.runtimeconfig.json
+/Users/kylebroderick/Projects/Assignment3/Assignment3/bin/Debug/netcoreapp3.1/Assignment3.runtimeconfig.dev.json
+/Users/kylebroderick/Projects/Assignment3/Assignment3/bin/Debug/netcoreapp3.1/Assignment3.dll
+/Users/kylebroderick/Projects/Assignment3/Assignment3/bin/Debug/netcoreapp3.1/Assignment3.pdb
+/Users/kylebroderick/Projects/Assignment3/Assignment3/bin/Debug/netcoreapp3.1/Assignment3.Views.dll
+/Users/kylebroderick/Projects/Assignment3/Assignment3/bin/Debug/netcoreapp3.1/Assignment3.Views.pdb
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.csprojAssemblyReference.cache
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.AssemblyInfoInputs.cache
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.AssemblyInfo.cs
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.csproj.CoreCompileInputs.cache
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.MvcApplicationPartsAssemblyInfo.cache
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.RazorAssemblyInfo.cache
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.RazorAssemblyInfo.cs
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/staticwebassets/Assignment3.StaticWebAssets.Manifest.cache
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/staticwebassets/Assignment3.StaticWebAssets.xml
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/scopedcss/bundle/Assignment3.styles.css
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.TagHelpers.input.cache
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.TagHelpers.output.cache
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.RazorCoreGenerate.cache
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.RazorTargetAssemblyInfo.cache
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.RazorTargetAssemblyInfo.cs
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.Views.pdb
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.dll
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.pdb
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.genruntimeconfig.cache
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.csproj.CopyComplete
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/Home/MyPodcasts.cshtml.g.cs
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/Home/EnterMovie.cshtml.g.cs
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/Home/Confirmation.cshtml.g.cs
+/Users/kylebroderick/Projects/Assignment3/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/Home/MovieList.cshtml.g.cs
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Assignment3.deps.json
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Assignment3.runtimeconfig.json
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Assignment3.runtimeconfig.dev.json
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Assignment3.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Assignment3.pdb
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Assignment3.Views.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Assignment3.Views.pdb
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.csprojAssemblyReference.cache
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.AssemblyInfoInputs.cache
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.AssemblyInfo.cs
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.csproj.CoreCompileInputs.cache
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.MvcApplicationPartsAssemblyInfo.cache
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.RazorAssemblyInfo.cache
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.RazorAssemblyInfo.cs
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/staticwebassets/Assignment3.StaticWebAssets.Manifest.cache
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/staticwebassets/Assignment3.StaticWebAssets.xml
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/scopedcss/bundle/Assignment3.styles.css
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.TagHelpers.input.cache
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.TagHelpers.output.cache
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.RazorCoreGenerate.cache
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/Home/Confirmation.cshtml.g.cs
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/Home/EnterMovie.cshtml.g.cs
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/Home/MovieList.cshtml.g.cs
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/Home/MyPodcasts.cshtml.g.cs
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.RazorTargetAssemblyInfo.cache
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.RazorTargetAssemblyInfo.cs
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.Views.pdb
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.pdb
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.genruntimeconfig.cache
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Assignment3.csproj.CopyComplete
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/System.Text.Encodings.Web.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/kylebroderick/Desktop/BYU/IS Junior Core 2/IS 413/Assignment3/obj/Debug/netcoreapp3.1/Razor/Views/Home/EditMovie.cshtml.g.cs
